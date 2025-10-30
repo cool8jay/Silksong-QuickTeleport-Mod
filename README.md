@@ -4,20 +4,22 @@
 
 A quick teleportation mod for Hollow Knight: Silksong.
 
-## 传送坐标
+![image_en](assets/image_en.png)
+
+## Coordinates
 
 Name | Count
 ---- | ----
-Bench| 12
-Map| 12
+Bench| 71
+Map| 25
 Mask Shard | 20
-Spool Fragment | 5
-Rosaries | 80
+Spool Fragment | 18
 Ability | 17
+Rosaries | 135
 Memory Locket | 20
 Craftmetal | 8
 Crest | 6 
-Key | 8
+Key | 12
 Pail Oil | 3
 Cogwork Part | 3
 Tool Pouch | 4
@@ -25,16 +27,16 @@ Crafting Kit | 4
 Flea | 30 
 Tool | 51
 Materium | 43
-古董 | 15
+Relic | 15
 Memento | 8
-Literature | 20
-NPC | 50
-Enemy | 240
-Needolin | 20
+NPC | 80
+Enemy | 237
+Literature | 36
+Needolin | 14
 
 ## Installation
 
-1. Install BepInEx
+1. Install `BepInEx`
 2. Extract and put the `QuickTeleport.dll` into `BepInEx/plugins/` folder
 3. Start game
 
@@ -61,4 +63,13 @@ Needolin | 20
 * ❌ **During any special states or triggered events**
 
 ### Important Notes:
-⚠️ **Do not teleport immediately after death**
+⚠️ **Do not teleport immediately after death!**
+
+## Credits
+
+This project references this [MOD](https://github.com/Masaicker/TeleportMod-Silksong). Great job!
+
+## Changelog
+
+### 1.0
+First release.
