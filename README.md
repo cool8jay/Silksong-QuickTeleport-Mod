@@ -43,7 +43,7 @@ Needolin | 14
 ## Usage
 
 ### Keyboard Controls
-- `Ctrl + = [equal key]`: **Open QuickTeleport Interface**
+- `Ctrl + = [equal key]`: **Open QuickTeleport panel**
 
 ## Safety Guidelines
 
