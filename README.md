@@ -17,22 +17,23 @@ Spool Fragment | 18
 Ability | 17
 Rosaries | 135
 Memory Locket | 20
-Craftmetal | 8
+Tool | 51
 Crest | 6 
+Craftmetal | 8
+Flea | 30 
+Memento | 8
+Psalm Cylinder | 6
+Materium | 45
+Crafting Kit | 4
+Tool Pouch | 4
 Key | 12
 Pail Oil | 3
-Cogwork Part | 3
-Tool Pouch | 4
-Crafting Kit | 4
-Flea | 30 
-Tool | 51
-Materium | 43
 Relic | 15
-Memento | 8
-NPC | 80
+Silkeater | 10
 Enemy | 237
+NPC | 80
 Literature | 36
-Needolin | 14
+Needolin | 20
 
 ## Installation
 
@@ -70,6 +71,10 @@ Needolin | 14
 This project references this [MOD](https://github.com/Masaicker/TeleportMod-Silksong). Great job!
 
 ## Changelog
+
+### 1.1
+* Save language setting.
+* Fix some incorrect coordinate data.
 
 ### 1.0
 First release.
