@@ -33,7 +33,7 @@ Silkeater | 10
 Enemy | 237
 NPC | 78
 Literature | 36
-Needolin | 22
+Needolin | 23
 
 ## Installation
 
