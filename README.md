@@ -22,6 +22,7 @@ Crest | 6
 Craftmetal | 8
 Flea | 30 
 Memento | 8
+Heart | 4
 Psalm Cylinder | 6
 Materium | 45
 Crafting Kit | 4
