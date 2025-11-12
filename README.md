@@ -10,12 +10,12 @@ A quick teleportation mod for Hollow Knight: Silksong.
 
 Name | Count
 ---- | ----
-Bench | 78
+Bench | 79
 Map | 27
 Mask Shard | 20
 Spool Fragment | 18
 Ability | 17
-Rosary | 136
+Rosary | 140
 Memory Locket | 20
 Tool | 56
 Crest | 6 
@@ -32,8 +32,8 @@ Relic | 15
 Silkeater | 10
 Enemy | 237
 NPC | 78
-Literature | 36
-Needolin | 23
+Lore | 40
+Needolin | 46
 
 ## Installation
 
@@ -71,6 +71,9 @@ Needolin | 23
 The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silksong). Great job!
 
 ## Changelog
+
+### 1.1.1
+* Update coordinate data.
 
 ### 1.1
 * Save language setting.
