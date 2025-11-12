@@ -34,7 +34,7 @@ Silkeater | 10
 Enemy | 237
 NPC | 78
 Lore | 40
-Needolin | 46
+Needolin | 43
 
 ## Installation
 
