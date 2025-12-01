@@ -73,6 +73,10 @@ The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silks
 
 ## Changelog
 
+### 1.2
+* Display item acquisition indicator.
+* Display game progress.
+
 ### 1.1.1
 * Update coordinate data.
 
