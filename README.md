@@ -15,9 +15,9 @@ Map | 27
 Mask Shard | 20
 Spool Fragment | 18
 Ability | 17
-Rosary | 140
+Rosary | 141
 Memory Locket | 20
-Tool | 56
+Tool | 55
 Crest | 6 
 Craftmetal | 8
 Flea | 30 
@@ -34,7 +34,8 @@ Silkeater | 10
 Enemy | 237
 NPC | 78
 Lore | 40
-Needolin | 43
+Needolin | 44
+Misc. | 5
 
 ## Installation
 
