@@ -46,7 +46,14 @@
 ## 使用方法
 
 ### 键盘操作
-- `Ctrl + = [等号键]`: **打开传送面板**
+
+默认的快捷键是`Ctrl + = [等号键]`。
+
+### 修改快捷键
+
+- 通过`Configuration Manager`修改快捷键。在游戏里按下`F1`打开`Configuration Manager`的面板，找到`QuickTeleport`，修改`Alt`，`Control`，`Shift`，`ToggleUIKey`。
+
+- 或者，在配置文件`100hps.QuickTeleport.cfg`中，修改修改`Alt`，`Control`，`Shift`，`ToggleUIKey`的值。
 
 ## 安全使用指南
 
@@ -73,6 +80,9 @@
 项目参考了这个[MOD](https://github.com/Masaicker/TeleportMod-Silksong)。感谢！
 
 ## 更新记录
+
+### 1.3
+* 修改快捷键。
 
 ### 1.2
 * 显示物品获取标识。

@@ -46,7 +46,14 @@ Misc. | 5
 ## Usage
 
 ### Keyboard Controls
-- `Ctrl + = [equal key]`: **Open QuickTeleport panel**
+
+Default shortcut `Ctrl + = [equal key]`.
+
+### Modify Shortcut
+
+- Modify the hotkeys via the `Configuration Manager`. In the game, press `F1` to open the `Configuration Manager` panel, find `QuickTeleport`, and modify the values ​​for `Alt`, `Control`, `Shift`, and `ToggleUIKey`.
+
+- Alternatively, modify the values ​​for `Alt`, `Control`, `Shift`, and `ToggleUIKey` in the configuration file `100hps.QuickTeleport.cfg`.
 
 ## Safety Guidelines
 
@@ -73,6 +80,9 @@ Misc. | 5
 The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silksong). Great job!
 
 ## Changelog
+
+### 1.3
+* Modify shortcut keys.
 
 ### 1.2
 * Display item acquisition indicator.
