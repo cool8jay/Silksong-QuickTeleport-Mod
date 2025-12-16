@@ -28,7 +28,7 @@ Materium | 45
 Crafting Kit | 4
 Tool Pouch | 4
 Key | 12
-Pail Oil | 3
+Needle Upgrade | 3
 Relic | 15
 Silkeater | 10
 Enemy | 237
@@ -47,9 +47,9 @@ Misc. | 5
 
 ### Keyboard Controls
 
-Default shortcut `Ctrl + = [equal key]`.
+Default hotkey `Ctrl + = [equal key]`.
 
-### Modify Shortcut
+### Modify Hotkey
 
 - Modify the hotkeys via the `Configuration Manager`. In the game, press `F1` to open the `Configuration Manager` panel, find `QuickTeleport`, and modify the values ​​for `Alt`, `Control`, `Shift`, and `ToggleUIKey`.
 
@@ -82,7 +82,8 @@ The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silks
 ## Changelog
 
 ### 1.3
-* Modify shortcut keys.
+* Change MOD main UI hotkey in Configuration Manager.
+* Display group item collection progress.
 
 ### 1.2
 * Display item acquisition indicator.
