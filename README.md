@@ -17,8 +17,8 @@ Spool Fragment | 18
 Ability | 17
 Rosary | 141
 Memory Locket | 20
-Tool | 55
-Crest | 6 
+Tool | 52
+Crest | 7
 Craftmetal | 8
 Flea | 30 
 Memento | 8
