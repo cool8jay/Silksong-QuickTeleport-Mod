@@ -81,7 +81,7 @@ The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silks
 
 ## Changelog
 
-# 1.3.1
+### 1.3.1
 * Add platforming challenges end point coordinates.
 * Add Sprintmaster race checkpoint coordinates.
 * Add cogwork core levers coordinates.
