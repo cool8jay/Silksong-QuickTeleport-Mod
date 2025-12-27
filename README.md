@@ -14,19 +14,20 @@ Bench | 79
 Map | 27
 Mask Shard | 20
 Spool Fragment | 18
+Lever | 128
 Ability | 17
 Rosary | 141
 Memory Locket | 20
-Tool | 52
+Tool | 51
 Crest | 7
 Craftmetal | 8
+Crafting Kit | 4
+Tool Pouch | 4
 Flea | 30 
 Memento | 8
 Heart | 4
-Psalm Cylinder | 6
+Cylinder | 6
 Materium | 45
-Crafting Kit | 4
-Tool Pouch | 4
 Key | 12
 Needle Upgrade | 3
 Relic | 15
@@ -35,7 +36,7 @@ Enemy | 237
 NPC | 78
 Lore | 40
 Needolin | 44
-Misc. | 5
+Misc. | 10
 
 ## Installation
 
@@ -80,6 +81,10 @@ Default hotkey `Ctrl + = [equal key]`.
 The project references this [MOD](https://github.com/Masaicker/TeleportMod-Silksong). Great job!
 
 ## Changelog
+
+### 1.3.2
+* Add coordinates for levers and one-way walls.
+* Add coordinates for memory endpoints.
 
 ### 1.3.1
 * Add platforming challenges end point coordinates.
